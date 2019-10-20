@@ -1,0 +1,4 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('AthenaJDBC41_2.0.2.jar'))
+dependencies {
+}
